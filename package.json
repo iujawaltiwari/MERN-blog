@@ -1,0 +1,19 @@
+{
+  "name": "mern-blog",
+  "version": "1.0.0",
+  "description": "MERN blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujawaltiwariG/MERN-blog.git"
+  },
+  "author": "Ujawal Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujawaltiwariG/MERN-blog/issues"
+  },
+  "homepage": "https://github.com/ujawaltiwariG/MERN-blog#readme"
+}
